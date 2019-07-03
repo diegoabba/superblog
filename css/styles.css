@@ -15,7 +15,7 @@ body {
 }
 #cabecera {
   background: rgb(14, 129, 120);
-  padding: 1em;
+  padding: 0.5em;
   font-weight: bold;
   color: white;
   text-align: left; 
@@ -26,6 +26,11 @@ body {
   font-size: 0.75em;
   font-weight: 400;
   margin-left: 1em;
+}
+#cabecera img {
+  width: 50px;
+  vertical-align: middle;
+  margin-right: 0.5em;
 }
 .btn {
   padding: 0.5em 1em;
