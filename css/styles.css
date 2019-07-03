@@ -44,3 +44,8 @@ body {
 .content {
   margin-bottom: 2em;
 }
+#footer {
+  text-align: center;
+  padding: 2em;
+  background: rgb(177, 185, 177);
+}
