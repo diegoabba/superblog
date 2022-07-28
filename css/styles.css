@@ -11,10 +11,10 @@ body {
   border: 1px solid rgb(213, 221, 214);
 }
 .post {
-  padding: 1em;
+  padding: 2em;
 }
 #cabecera {
-  background: rgb(14, 129, 120);
+  background: rgb(7, 151, 72);
   padding: 0.5em;
   font-weight: bold;
   color: white;
@@ -30,7 +30,7 @@ body {
 #cabecera img {
   width: 50px;
   vertical-align: middle;
-  margin-right: 0.5em;
+  margin-right: 1em;
 }
 .btn {
   padding: 0.5em 1em;
